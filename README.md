@@ -74,10 +74,10 @@ else:
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
-Program to find the element in a list using Binary Search (recursive Method).
+
 Developed by: NISHA.D
 RegisterNumber: 23012927
-'''
+'''Program to find the element in a list using Binary Search (recursive Method).
 def BinarySearch(arr, k, low, high):
     if high >= low:
         mid = low+(high-low)//2
@@ -102,10 +102,16 @@ else:
 
 ```
 ## Sample Input and Output
+Program for linear search method to match the item in a list
 
-![Alt text](<Screenshot (65).png>)
-![Alt text](<Screenshot (66).png>)
-![Alt text](<Screenshot (67).png>)
+![Alt text](<Screenshot 2023-12-19 220330.png>)
+
+Program to find the element in a list using Binary Search(Iterative Method)..
+
+![Alt text](<Screenshot 2023-12-19 220352.png>)
+
+Program to find the element in a list using Binary Search (recursive Method).
+![Alt text](<Screenshot 2023-12-19 220422.png>)
 
 
 ## Result
