@@ -101,7 +101,7 @@ else:
     print("Element found at index: ",result)
 
 ```
-## Sample Input and Output
+## Output
 Program for linear search method to match the item in a list
 
 ![Alt text](<Screenshot 2023-12-19 220330.png>)
